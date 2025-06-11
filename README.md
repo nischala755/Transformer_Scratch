@@ -83,8 +83,8 @@ Train on Custom Data: Use your own text corpus
 Analyze Performance: Use built-in evaluation tools
 
 🎯 Use Cases
-📖 Educational
 
+📖 Educational
 Learn transformer architecture internals
 Understand attention mechanisms
 Experiment with different configurations
@@ -106,17 +106,12 @@ Integrate with larger applications
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-🙏 Acknowledgments
 
+🙏 Acknowledgments
 Attention Is All You Need - Vaswani et al. (Original Transformer paper)
 GPT Series - OpenAI (Architecture inspiration)
 PyTorch Team - For the amazing framework
 Community - For feedback and contributions
 
-📬 Contact
 
-Issues: GitHub Issues
-Discussions: GitHub Discussions
-Email: your.email@example.com
-Twitter: @YourHandle
 
