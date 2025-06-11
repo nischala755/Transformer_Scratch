@@ -1,22 +1,13 @@
 **GPT-like Transformer from Scratch**
 A complete, educational implementation of a GPT-like transformer architecture with comprehensive analysis tools
 
-Why This Implementation?
-Unlike other transformer tutorials that skip the details, this implementation provides:
-
-*Complete transparency: Every component explained and visualizable
-*Educational focus: Perfect for learning transformer internals
-*Analysis tools: Understand what your model is actually learning
-*Production-ready: Clean, modular code that scales
-*Experimentation-friendly: Easy to modify and extend
-
 Option 1: Quick Demo (30 seconds)
 python# Clone and run
 git clone <your-repo>
 cd gpt-transformer
 python transformer.py
 
-# In the script, uncomment:
+In the script, uncomment:
 model, trainer = quick_demo()
 
 **Features**
@@ -44,7 +35,7 @@ model, trainer = quick_demo()
 🔄 Reproducible Results: Seed management included
 🚀 GPU Acceleration: Automatic CUDA detection.
 
-![image](https://github.com/user-attachments/assets/c059084b-14fb-4334-8ff5-4e1b045e1800)
+
 
 Performance Metrics : ![image](https://github.com/user-attachments/assets/1fd5a0b6-099a-4b83-a301-3a99b80b23d4)
 
